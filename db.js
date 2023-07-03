@@ -8,5 +8,13 @@
       "batch_name": "WEB-21",
       "profession": "FSD"
     },
+    {
+      "id": 2,
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
+    }
   ]
 }
